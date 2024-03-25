@@ -1,5 +1,4 @@
 // Carlos Irizarry Castro
-// U#: U13026572
 // The following program is a simple UNIX shell where the user types in a command and the shell creates a child process 
 // that executes the command. The shell is called rush (Rapid Unix SHell)
 
